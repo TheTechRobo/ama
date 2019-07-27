@@ -1,9 +1,9 @@
 # Ask me anything!
 
 
-I sometimes get questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Life. Code. Whatever.
+
 
 ### To ask a question, go to [Issues](https://github.com/thetechrobo/ama/issues)
 
