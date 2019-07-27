@@ -3,14 +3,16 @@
 
 I sometimes get questions by email. This way anyone can read the answer!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything*. Personal questions. Life. Code. Whatever.
+
+### To ask a question, click Issues above
 
 
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
 - Use a good title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
+- Bugs and feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
