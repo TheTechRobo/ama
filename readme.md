@@ -5,7 +5,7 @@
 Anything means *anything*. Personal questions. Life. Code. Whatever.
 
 
-### To ask a question, go to [Issues](https://github.com/thetechrobo/ama/issues)
+### To ask a question, click [here.](https://github.com/thetechrobo/ama/issues)
 
 
 ### Guidelines
