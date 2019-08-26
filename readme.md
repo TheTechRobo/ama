@@ -13,7 +13,7 @@ Anything means *anything*. Personal questions. Life. Code. Whatever.
 - Ensure your question hasn't already been answered.
 - Use a good title and description.
 - Bugs and feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on [Stack Overflow](https://stackoverflow.com).
+- Support questions are better asked on [my support repo](https://github.com/thetechrobo/support/).
 - Be civil and polite.
 
 ### Links
