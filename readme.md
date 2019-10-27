@@ -16,7 +16,7 @@ Anything means *anything*. Personal questions. Life. Code. Whatever.
 - Support questions are better asked on **[my support repo](https://github.com/thetechrobo/support/)**. 
 - If you do decide to ask a support question it will probably **never be answered** except "Please post this on the support repo".
 - Be **civil** and **polite**.
-- **Please,** no **harrassment** or **abuse*
+- **Please,** no **harrassment** or **abuse**
 - Sexual content is **not tolerated** and will be **deleted without notice**.
 
 ### Links
