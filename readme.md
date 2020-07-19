@@ -17,6 +17,7 @@ Anything means *anything*. Personal questions. Life. Code. Whatever.
 - If you do decide to ask a support question it will probably **never be answered** except "Please post this on the support repo".
 - Be **civil** and **polite**.
 - **Please,** no **harrassment** or **abuse**
+- Follow GitHub's **terms of service**
 - Sexual content is **not tolerated** and will be **deleted without notice**.
 
 ### Links
