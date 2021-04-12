@@ -10,15 +10,15 @@ Anything means *anything*. Personal questions. Life. Code. Whatever.
 
 ### Guidelines
 
-- Ensure your question hasn't **already been answered**. GitHub's duplicate issue tracker is great for this.
+- Please ensure your question hasn't **already been answered**. Use the search bar.
 - Use an **easily-understood** and **detailed** title and description.
 - Feature requests should be opened on the **relevant issue tracker**.
-- Support questions and bug reports are better asked on **[my support repo](https://github.com/thetechrobo/support/)**. 
-- If you do decide to ask a support question it will probably **never be answered** except "Please post this on the support repo".
+- Support questions and bug reports are better asked on the repository in question.
+- If you do decide to ask a support question it will probably **never be answered**.
 - Be **civil** and **polite**.
-- **Please,** no **harrassment** or **abuse**. Ignoring this rule **will get you reported**.
-- Follow GitHub's **terms of service**. Again, ignoring this rule **will get you reported**.
-- Sexual content is **not tolerated** and will be **deleted without notice, whilst reporting you to the GitHub staff.**
+- **Please,** no **harrassment** or **abuse**.
+- Follow GitHub's **terms of service**. Ignoring this rule **will get you reported**.
+- Sexual content is **not tolerated** and will be **deleted without notice**. **Repeat offenders will be banned.**
 
 ### Links
 
