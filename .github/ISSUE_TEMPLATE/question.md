@@ -13,4 +13,4 @@ assignees: 'TheTechRobo'
 <!--Any other things I need to know?-->
 
 
-<!--Now say that you HAVE read the guidelines.md file. (If you haven't, I do recommend that you do)-->
+<!--Now say that you HAVE read the guidelines in the README.md file. If you have not, it is HIGHLY suggested that you do.-->
